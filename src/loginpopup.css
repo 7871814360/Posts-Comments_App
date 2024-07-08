@@ -1,0 +1,166 @@
+.loginpopup {
+    width: 400px;
+    background-color: aquamarine;
+    border: none;
+    border-radius: 20px;
+    padding: 20px;
+    padding-left: 30px;
+    font-family: sans-serif;
+    font-weight: 600;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    }
+    .login-title{
+        font-size: 30px;
+        text-align: center;
+    }
+    .login-label{
+        font-size: 22px;
+        font-weight: 700;
+        margin-left: 20px;
+    
+    }
+    .login-name{
+        width: 350px;
+        height: 50px;
+        border: none;
+        border-radius: 30px;
+        padding-left: 30px;
+        font-size: 20px;
+    }
+    .login-pass{
+        width: 350px;
+        height: 50px;
+        border: none;
+        border-radius: 30px;
+        padding-left: 30px;
+        font-size: 20px;
+    }
+    .login{
+        height: 60px;
+        width: 380px;
+        background-color:darkgreen;
+        color: #fff;
+        font-size: 22px;
+        font-weight: 700;
+        border: none;
+        border-radius: 30px;
+        margin-top: 40px;
+    }
+    .signup-link {
+        height: 50px;
+        width: 100px;
+        border: none;
+        background-color: aquamarine;
+        font-size: 25px;
+        font-weight: 500;
+        text-decoration: underline;
+    }
+    .signup-link:hover {
+        background-color: darkgreen;
+        color: #fff;
+        text-decoration: none;
+        border: none;
+        border-radius: 5px;
+    }
+    .signup-txt {
+        font-size: 20px;
+        font-weight: 500;
+    }
+    /*Signup Popup*/
+    .signuppopup {
+        width: 400px;
+        background-color: aquamarine;
+        border: none;
+        border-radius: 20px;
+        padding: 20px;
+        padding-left: 30px;
+        font-family: sans-serif;
+        font-weight: 600;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        }
+        .signup-title{
+            font-size: 30px;
+            text-align: center;
+        }
+        .signup-label{
+            font-size: 22px;
+            font-weight: 700;
+            margin-left: 20px;
+        
+        }
+        .signup-name{
+            width: 350px;
+            height: 50px;
+            border: none;
+            border-radius: 30px;
+            padding-left: 30px;
+            font-size: 20px;
+        }
+        .signup-email{
+            width: 350px;
+            height: 50px;
+            border: none;
+            border-radius: 30px;
+            padding-left: 30px;
+            font-size: 20px;
+        }
+        .signup-pass{
+            width: 350px;
+            height: 50px;
+            border: none;
+            border-radius: 30px;
+            padding-left: 30px;
+            font-size: 20px;
+        }
+        .signup{
+            height: 60px;
+            width: 380px;
+            background-color:darkgreen;
+            color: #fff;
+            font-size: 22px;
+            font-weight: 700;
+            border: none;
+            border-radius: 30px;
+            margin-top: 40px;
+        }
+        .logo-title {
+            font-family: sans-serif;
+            font-size: 50px;
+            text-align: center;
+            color:darkgreen;
+            margin: 10px;
+        }
+        .user-name {
+            font-family: sans-serif;
+            font-size: 30px;
+            text-align: center;
+            color:darkgreen;
+            margin: 10px;
+            position: fixed;
+            top: 7px;
+            right: 190px;
+        }
+        
+        .login-btn{
+            height: 60px;
+            width: 150px;
+            background-color:darkgreen;
+            color: #fff;
+            font-size: 20px;
+            font-family: sans-serif;
+            font-weight: 600;
+            border: none;
+            border-radius: 20px;
+            position: fixed;
+            right: 20px;
+            top: 10px;
+        }
+        .login-btn:hover {
+            background-color:rgb(2, 68, 2);
+        }

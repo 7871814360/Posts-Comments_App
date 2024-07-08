@@ -1,0 +1,23 @@
+.btn-addComment {
+    height: 70px;
+    width: 170px;
+    border: none;
+    border-radius: 40px;
+    background-color: darkgreen;
+    color: #fff;
+    font-size: 18px;
+    margin-left: 20px;
+}
+.btn-addComment:hover {
+    background-color: rgb(3, 53, 3);
+}
+.input-addCmt {
+       width: 800px;
+        height: 70px;
+        border: none;
+        border-radius: 40px;
+        padding-left: 30px;
+        font-size: 20px;
+        margin-left: 50px;
+        margin: 20px;
+}

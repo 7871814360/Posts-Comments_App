@@ -1,0 +1,138 @@
+.newpost-btn{
+   height: 70px;
+   width: 180px;
+   background-color:darkgreen;
+   color: #fff;
+   font-size: 25px;
+   font-family: sans-serif;
+   font-weight: 600;
+   border: none;
+   border-radius: 30px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-bottom: 5px;
+}
+.post-container {
+  max-width: 1000px;
+  max-height: 400px auto;
+  background-color: rgb(201, 250, 250);
+  border-radius: 20px;
+  padding: 40px;
+  margin: 15px;
+}
+h2,h3,p {
+   font-family: sans-serif;
+}
+.post-title {
+   font-size: 30px;
+   margin-left: 30px;
+   padding-left: 20px;
+}
+.post-desc {
+   font-size: 30px;
+   margin-left: 50px;
+}
+.post-cmt {
+   font-size: 30px;
+   font-weight: 600;
+   margin-left: 50px;
+   margin: 20px;
+}
+.cmts  {
+   font-size: 25px;
+   font-weight: 200;
+   margin-left: 50px;
+}
+img{
+   width: 80%;
+   height: 40%;
+   margin: 10px;
+   margin-left: 50px;
+   border-radius: 20px;
+}
+.newpostpopup{
+   width: 450px;
+   height: auto;
+   background-color: rgb(152, 233, 233);
+   border-radius: 20px;
+   padding: 20px;
+   position: fixed;
+   left: 150px;
+}
+.newpost-file {
+    display: inline-block;
+    padding: 22px 30px ;
+    cursor: pointer;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 600;
+    transition: background-color 0.3s ease;
+    margin-bottom: 20px;
+    padding-left: 40px;
+  }
+  .newpost-input {
+    width: 400px;
+    height: 60px;
+    border-radius: 50px;
+    border: none;
+    padding-left: 30px;
+    padding-right: 20px;
+    font-size: 26px;
+ }
+ .newpost-desc {
+    width: 400px;
+    height: 150px;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+
+ }
+ .newpost-label {
+    font-family: sans-serif;
+    font-size: 24px;
+    text-align: center;
+
+ }
+ .newpost-img {
+    height: 60px;
+    width: 150px;
+    border: none;
+    border-radius: 30px;
+    background-color:darkgreen;
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+ }
+ .newpost-submit {
+    margin-top: 30px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    height: 60px;
+    width: 400px;
+    border: none;
+    border-radius: 20px;
+    background-color:darkgreen;
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+ }
+ .close-newPost {
+   margin-left: 20px;
+   color:darkgrey;
+   font-size: 30px;
+   font-family: sans-serif;
+   font-weight: 700;
+   position: fixed;
+   top: 5cm;
+   left: 14.4cm;
+ }
+ .close-newPost:hover {
+   color: red;
+ }
